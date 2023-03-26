@@ -1,8 +1,7 @@
+<img src = "Banner.gif" width = 325px align = "right">
 
-<img src = "banner.gif" width = "325px">
 
-
-## Olá! Eu sou a Ketsa de Amar, estudante de Análise e Desenvolvimento de Sistemas!
+#❤️ Olá, eu sou a Ketsa de Amar, estudante de Análise e Desenvolvimento de Sistemas!
 
 
 
